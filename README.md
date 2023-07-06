@@ -4,7 +4,7 @@
 
 <div id="badges", align="center" >
   <a href="https://vk.com/vladcvo">
-    <img src="https://img.shields.io/badge/Вконтакет-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Вконтакет-blue Badge"/>
+    <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Вконтакте-blue Badge"/>
   </a>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
@@ -12,27 +12,27 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://web.telegram.org/k/">
    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   
 </div>
-<div id="badges", align="center" >
-  <img src="https://komarev.com/ghpvc/?username=Vlad-Peceval&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis) 
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
+
+ ---
+
+##### Содержание
+[Обо мне](#me)  
+[Мой стек технологий](#emphasis) 
+[Книги](#emphasis)  
+[Проекты](#headers)  
+[Статистика](#headers)  
+[Связь со мной](#emphasis) 
+
+---
+<a name="me"/>
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -42,7 +42,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
+</a>
  ---
 
 ### :hammer_and_wrench: Languages and Tools :
