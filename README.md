@@ -74,6 +74,7 @@
 <a name="studproject"/>
  :biohazard: Студенческие работы:
 </a>
+
 ---
 
 <a name="stat"/>
