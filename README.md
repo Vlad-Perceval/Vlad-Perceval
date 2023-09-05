@@ -73,8 +73,18 @@
 ---
 <a name="studproject"/>
  👨‍🎓: Студенческие работы:
-     Работы по SQL:
-       [Создание и заполнение](https://github.com/Vlad-Perceval/creation-and-filling)
+ 
+  Работы по SQL:
+     
+  [Создание и заполнение](https://github.com/Vlad-Perceval/creation-and-filling)
+  [Обьединение таблиц](https://github.com/Vlad-Perceval/connection-operations)
+  [Запросы](https://github.com/Vlad-Perceval/requests-sql)
+  [Функции и триггеры](https://github.com/Vlad-Perceval/functions-and-triggers)
+  [Функции и триггеры2](https://github.com/Vlad-Perceval/connection-operations-2)
+  [Пользователи и роли](https://github.com/Vlad-Perceval/users-and-roles)
+  [Транзакции](https://github.com/Vlad-Perceval/transactions)
+  
+  
 </a>
 
 ---
