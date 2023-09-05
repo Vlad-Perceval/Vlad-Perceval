@@ -93,6 +93,20 @@
   [Транзакции](https://github.com/Vlad-Perceval/transactions)
   
   </details>
+
+
+  <details><summary>Работы по Python</summary>
+    
+  [Метод Гаусса](https://github.com/Vlad-Perceval/Gaus-method-python)
+  
+  [Метод Зейдаля](https://github.com/Vlad-Perceval/Zeidal-method-python)
+  
+  [уточнение значений корня](https://github.com/Vlad-Perceval/Clarify--values--roots)
+  
+  
+  
+
+  </details>
   
   
 </a>
