@@ -74,7 +74,9 @@
 <a name="studproject"/>
  👨‍🎓: Студенческие работы:
  
-  Работы по SQL:
+ 
+  <details><summary>Работы по SQL</summary>
+
      
   [Создание и заполнение](https://github.com/Vlad-Perceval/creation-and-filling)
   
@@ -89,6 +91,8 @@
   [Пользователи и роли](https://github.com/Vlad-Perceval/users-and-roles)
   
   [Транзакции](https://github.com/Vlad-Perceval/transactions)
+  
+  </details>
   
   
 </a>
